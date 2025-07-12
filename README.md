@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sangay Jambel</h1>
 <h3 align="center">A passionate Sofwtare Engineer from India</h3>
 
-
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 # 💫 About Me:
+
 🔭 I’m currently working on iGaming Class II & Class III games including Player Account Management.<br>👯 I’m looking to collaborate on iGaming Slots.<br>🤝 I’m looking for help with sports book iGaming.<br>🌱 I’m currently learning Coding.<br>💬 Ask me about anything related to Game Testing.<br>⚡ Fun fact I am a PC & Console Gamer.
 
 
